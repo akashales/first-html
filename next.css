@@ -1,0 +1,25 @@
+
+table ,
+th ,
+td {
+    border: 1px solid black;
+    border-collapse: collapse;
+    padding: 20px;
+    text-align: justify;
+}
+
+table {
+    align; center;
+}
+td {
+    font-size: 4ch;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+.put {
+    font-weight: 700;
+    font-style: normal;
+}
+
+.cure {
+    text-align: center;
+}

@@ -1,0 +1,35 @@
+#hip {
+    color: antiquewhite;
+    background-color: rgb(59, 59, 59);
+}
+
+p {
+    text-align: center;
+}
+#cum {
+    background-color: rgb(8, 28, 57);
+    color: antiquewhite;
+    /* display: flex;
+    align-items: center;
+    justify-content: center; */
+    
+}
+
+.about-wrapper{
+   display: flex;
+    align-items: center;
+    justify-content: center;
+    padding-bottom: 20px; 
+}
+
+.find-out-more{
+    height:50px;
+    width: 450px;
+    background-color: orange;
+    color:white;
+    border-radius: 10px;
+    padding: 4px 0px 4px 0px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
